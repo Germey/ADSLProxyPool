@@ -1,5 +1,7 @@
 # ADSL拨号服务器代理设置
 
+更优的选择：https://github.com/Python3WebSpider/AdslProxy
+
 ## 服务端
 
 服务端即远程主机
